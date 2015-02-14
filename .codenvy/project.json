@@ -1,1 +1,1 @@
-{"type":"maven","attributes":{"language":["java"],"contribute_branch":["master"]}}
+{"builders":{"configs":{},"default":"maven"},"runners":{"configs":{}},"mixinTypes":["git"],"type":"maven","attributes":{"languageVersion":["1.6"],"language":["java"]}}
